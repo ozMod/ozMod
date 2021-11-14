@@ -3,7 +3,7 @@ Welcome to my Github profile. I'm android modder. I modding android games intern
 <br/>
 <br/>
 <a href="https://www.youtube.com/channel/UCvBn3nCZInu2UGEGfvajCjQ>
-  <img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/master/youtube.svg" />
+  <img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/youtube.svg" />
 </a>
 <br/>
 <br/>
