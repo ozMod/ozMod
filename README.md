@@ -2,7 +2,7 @@
 Welcome to my Github profile. I'm android modder. I modding android games internally. Multiplayer (Among Us, Slendytubbies AE) and Offline Games, Horrors most often (Granny, Granny Chapter 2, Granny 3, Evil Nun, Baldi, and others)
 <br/>
 <br/>
-<a href="https://www.youtube.com/channel/UCvBn3nCZInu2UGEGfvajCjQ>
+<a href="https://www.youtube.com/channel/UCvBn3nCZInu2UGEGfvajCjQ">
   <img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/youtube.svg" />
 </a>
 <br/>
