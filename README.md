@@ -8,6 +8,9 @@ Welcome to my Github profile. I am russian android modder. I modding android gam
 <a href="https://github.com/akamaized20287/">
   <img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/github.svg" />
 </a>
+<a href="https://discord.gg/mDFbMEqNRP">
+  <img align="left" alt="Discord Server" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/discord.svg" />
+</a>
 <br/>
 <br/>
 ### Stats
