@@ -7,5 +7,5 @@ Welcome to my Github profile. I'm android modder. I modding android games intern
 </a>
 <br/>
 <br/>
-[![My Statistic at GitHub](https://github-readme-stats.vercel.app/api?username=akamaized202876&show_icons=true&theme=tokyonight)](https://github.com/akamaized20287)
+[![My Statistic at GitHub](https://github-readme-stats.vercel.app/api?username=akamaized20287&show_icons=true&theme=tokyonight)](https://github.com/akamaized20287)
 [![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akamaized20287&layout=compact&theme=tokyonight)](https://github.com/akamaized20287)
