@@ -11,6 +11,9 @@ Welcome to my Github profile. I am russian android modder. I modding android gam
 <a href="https://discord.gg/mDFbMEqNRP">
   <img align="left" alt="Discord Server" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/discord.svg" />
 </a>
+<a href="https://vk.com/ultraterm_termix">
+  <img align="left" alt="ВКонтакте" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/vk.svg" />
+</a>
 <br/>
 <br/>
 ### Stats
