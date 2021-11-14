@@ -5,6 +5,9 @@ Welcome to my Github profile. I am russian android modder. I modding android gam
 <a href="https://www.youtube.com/channel/UCvBn3nCZInu2UGEGfvajCjQ">
   <img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/youtube.svg" />
 </a>
+<a href="https://github.com/akamaized20287/">
+  <img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/akamaized20287/akamaized20287/main/github.svg" />
+</a>
 <br/>
 <br/>
 ### Stats
