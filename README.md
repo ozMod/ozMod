@@ -1,4 +1,4 @@
-### Hello! This is mн GitHub, I'm ozMod.
+### Hello! This is my GitHub, I'm ozMod.
 Welcome to my Github profile. I am russian android modder. I modding android games internally. Multiplayer (Among Us, Slendytubbies AE) and Offline Games, Horrors most often (Granny, Granny Chapter 2, Granny 3, Evil Nun, Baldi, and others)
 <br/>
 <br/>
