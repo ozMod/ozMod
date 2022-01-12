@@ -1,6 +1,5 @@
 ### Hello! This is my GitHub, I'm ozMod.
-Welcome to my Github profile. I'm Russian Android Modder.
-I modding Android Games internally. I am modding Multiplayer and Offline Games. 
+Welcome to my Github profile! I'm Russian Android Modder and I modding Android Games internally. It is Multiplayer and Offline Games. 
 
 ## Contact
 <br/>
