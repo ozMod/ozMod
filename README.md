@@ -27,6 +27,7 @@ Multiplayer Games
 
 Offline Games (Horror, Runner, etc.)
 
+- The Twins
 - Granny
 - Granny Chapter 2
 - Granny 3
