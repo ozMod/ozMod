@@ -16,5 +16,5 @@ Nationality
 <p align="right"> Russian </p>
 Who I am
 <p align="right"> Android Modder </p>
-Frequent Game Category
-<p align="right"> Horror </p>
+Modding most freqently
+<p align="right"> Offline/Horror </p>
